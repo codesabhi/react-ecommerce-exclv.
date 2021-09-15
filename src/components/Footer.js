@@ -125,7 +125,7 @@ import {
         <Right>
           <Title>Contact</Title>
           <ContactItem>
-            <Room style={{marginRight:"10px"}}/> 622 Dixie Path , South Delhi 89334
+            <Room style={{marginRight:"10px"}}/> 622 Rickon Path , South Delhi 89334
           </ContactItem>
           <ContactItem>
             <Phone style={{marginRight:"10px"}}/> +1 234 56 78
